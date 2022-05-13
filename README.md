@@ -1,3 +1,3 @@
 # senai-versoes-colaboradoress
 
-Iniciando DomOdonto projeto 
+Iniciando Odomto projeto 
